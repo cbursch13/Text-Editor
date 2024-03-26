@@ -16,17 +16,16 @@
   ## Description
   This application creates a PWA that allows the user to create a block of text and will allow you to edit that text offline.
 
-
   ## Usage
   Click on the below link to access the application. If you want to use the application offline click the install button in the top left and then navigate to your download folder to access the application to be used offline.
   https://text-editor-i8rm.onrender.com
 
   ## How to Contribute
   [Contributor Covenant](https://www.contributor-covenant.org/)  
-  You can fork this project into your own repository if you want to add additional functionality to this commmand line application.
+  You can fork this project into your own repository if you want to add additional functionality to this PWA.
 
 
   ## Questions?
   ### Reach me here: 
   [cbursch13](https://github.com/cbursch13)  
-  cammichbursc@gmail.com# RegEx Tutorial
+  cammichbursc@gmail.com
